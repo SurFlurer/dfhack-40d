@@ -1,0 +1,24 @@
+Make the "Dwarves Stay Inside" order check for "Inside" tiles rather than "Subterranean" ones 
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+001E6881: 80 00 
+001E6882: 00 01
+001E6885: 84 85
+001E7E8C: 80 00 
+001E7E8D: 00 01
+001E7E8F: 75 74
+002FC4B7: 80 00
+002FC4B8: 00 01
+002FC4BA: 75 74
+004BA08C: 80 00 
+004BA08D: 00 01
+004BA08F: 75 74
+004BA14C: 80 00 
+004BA14D: 00 01
+004BA14F: 74 75
+004E2C70: 80 00 
+004E2C71: 00 01
+004E2C73: 74 75

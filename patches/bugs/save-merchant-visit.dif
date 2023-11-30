@@ -1,0 +1,16 @@
+Failed merchant visits do not save their results correctly in history 
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+003778D8: 10 28
+003778DE: 0C 24
+003778EB: 10 28
+003778F1: 0C 24
+00377900: 10 28
+00377906: 0C 24
+00377915: 10 28
+0037791B: 0C 24
+0037792F: 10 28
+00377935: 0C 24

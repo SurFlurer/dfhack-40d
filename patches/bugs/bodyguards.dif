@@ -1,0 +1,10 @@
+Diplomats and Merchant Nobles don't bring bodyguards
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+0036C71A: 15 08
+0036C724: 85 84
+0036D462: 0E 08
+0036D46C: 85 84

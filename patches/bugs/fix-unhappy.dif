@@ -1,0 +1,11 @@
+Sheriff doesn't get unhappy thoughts from insufficient jails
+Mayor and Sheriff don't get unhappy thoughts from insufficient fortress guards
+Baron doesn't get unhappy thoughts from insufficient royal guards
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+00354372: 84 85 
+003544C2: 74 75
+003541EB: 84 85

@@ -1,0 +1,22 @@
+Skilled siege engine operators fail to aim straight
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+0034301A: 4D 4C
+0034301B: 20 24
+0034301C: 8B 2C
+0034301D: 55 8B
+0034301E: 24 54
+0034301F: 8B 24
+00343020: 7D 40
+00343021: 1C 89
+00343022: 89 4D
+00343023: 4C 20
+00343024: 24 89
+00343025: 2C 55
+00343026: 89 24
+00343027: 54 89
+00343028: 24 7D
+00343029: 40 1C

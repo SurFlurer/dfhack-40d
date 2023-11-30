@@ -1,0 +1,14 @@
+Siegers try and fail to renew campfires
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+001800D7: E8 66
+001800D8: A4 8B
+001800D9: 8D 5C
+001800DA: F1 24
+001800DB: FF 18
+001800DC: 8B 89
+001800DD: 10 C2
+

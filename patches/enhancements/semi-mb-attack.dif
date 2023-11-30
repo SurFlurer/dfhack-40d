@@ -1,0 +1,16 @@
+Allow fortress mode attacks from Semi-megabeasts as well as full Megabeasts 
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+00372040: 0F 10
+00372049: 8A 66
+0037204A: 42 8B
+0037204B: 0F 42
+0037204C: C0 0F
+0037204D: E8 66
+0037204E: 07 A9
+0037204F: 3A 80
+00372050: C3 01
+

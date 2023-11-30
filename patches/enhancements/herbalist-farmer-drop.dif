@@ -1,0 +1,23 @@
+Make Herbalists drop gathered shrubs on the ground (instead of hauling them back to a stockpile)
+Make Farmers drop gathered crops on the farm plot (instead of hauling them back to a stockpile) 
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+004728AA: FF 01
+004728AB: 6A 90
+004728AC: FF 90
+004728AD: 6A 90
+004728AE: 00 8B
+004728AF: 55 CD
+004728B3: 39 99
+004728B4: C1 C3
+00346060: FF 01
+00346061: 6A 90
+00346062: FF 90
+00346063: 6A 90
+00346064: 00 8B
+00346065: 53 CB
+00346069: 83 E3
+0034606A: 89 8B

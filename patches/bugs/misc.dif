@@ -1,0 +1,21 @@
+Vermin fish in aquariums cancel updates of remaining vermin
+Art images of creatures are not valued properly by civilizations
+Pikemasters are given skill levels in Axe instead of Pike
+Placing designations causes things to happen in the background
+Human civilizations always send Guild Representatives, never Merchant Barons/Princes 
+Magma flow tiles at the bottom of magma pipes don't animate like they did in older versions 
+Dead shrubs render with the "live shrub" tile
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+0023BD2F: 19 08
+003032DC: 4E 49
+000273E0: 27 33
+00111E9F: F6 C0
+00357740: 57 56
+00503630: 0F 90
+00503631: 94 89
+00503632: C1 F1
+00503866: 88 89

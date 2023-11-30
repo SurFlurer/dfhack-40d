@@ -1,0 +1,8 @@
+Armorsmith strange moods incorrectly produce helmets using SHOES item type
+
+----8<----
+This difference file is created by The Interactive Disassembler
+
+dwarfort.exe
+002406B0: 1A 1C 
+002406D6: 1A 1C 
